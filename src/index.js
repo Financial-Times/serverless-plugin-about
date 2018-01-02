@@ -121,7 +121,7 @@ class About {
   }
 
   createAboutFunctionArtifact (functionObjects) {
-    const aboutTemplate = fs.readFileSync(path.resolve(__dirname, './about_plugin_template.js'), 'utf8')
+    const aboutTemplate = fs.readFileSync(path.resolve(__dirname, './plugin_template.js'), 'utf8')
     const aboutFunction = tokenSubstitute(aboutTemplate, {
       tokens: {
         creationDate: new Date().toISOString(),
