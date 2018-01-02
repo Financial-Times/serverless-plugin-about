@@ -2,7 +2,7 @@
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![npm (scoped)](https://img.shields.io/npm/v/serverless-plugin-about.svg)](https://www.npmjs.com/package/serverless-plugin-about)
-[![npm](https://img.shields.io/npm/dw/serverless-plugin-about)](https://www.npmjs.com/package/serverless-plugin-about)
+[![npm](https://img.shields.io/npm/dw/serverless-plugin-about.svg)](https://www.npmjs.com/package/serverless-plugin-about)
 [![license](https://img.shields.io/npm/l/serverless-plugin-about.svg)](https://raw.githubusercontent.com/Financial-Times/serverless-plugin-about/master/LICENSE)
 
 An about endpoint to describe your lambdas.

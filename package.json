@@ -1,6 +1,6 @@
 {
     "name": "serverless-plugin-about",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "About endpoint.",
     "main": "src/index.js",
     "scripts": {
