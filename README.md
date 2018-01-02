@@ -108,10 +108,10 @@ custom:
       schemaVersion: 1
       name: A great system that uses about
       systemCode: greatsys
-      lambdas: []
+      components: []
 ```
 
-Note that lambdas is reserved and is used to identify the location into which the array of lambda infomation responses will be placed
+Note that components is reserved and is used to identify the location into which the array of lambda infomation responses will be placed
 
 ## Artifact
 
