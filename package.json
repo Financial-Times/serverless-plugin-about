@@ -1,5 +1,5 @@
 {
-    "name": "@financial-times/serverless-plugin-about",
+    "name": "serverless-plugin-about",
     "version": "0.0.4",
     "description": "About endpoint.",
     "main": "src/index.js",
