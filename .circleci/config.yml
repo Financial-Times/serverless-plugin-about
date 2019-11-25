@@ -9,7 +9,7 @@ references:
   container_config: &container_config
     working_directory: ~/project/serverless-plugin-about
     docker:
-      - image: circleci/node:6.10.3
+      - image: circleci/node:10
 
   workspace_root: &workspace_root
     ~/project
